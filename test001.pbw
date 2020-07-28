@@ -1,7 +1,12 @@
 Save Format v3.0(19990112)
 @begin Targets
  0 "genapp.pbt";
+ 1 "genapp1.pbt";
+ 2 "genapp2.pbt";
+ 3 "genapp3.pbt";
+ 4 "genapp4.pbt";
+ 5 "genapp5.pbt";
 @end;
-DefaultTarget "genapp.pbt";
+DefaultTarget "genapp5.pbt";
 DefaultExportEncode "HEXANSCII";
-DefaultRemoteTarget "genapp.pbt";
+DefaultRemoteTarget "genapp5.pbt";
