@@ -12,6 +12,7 @@ end forward
 
 global type genapp from application
 string appname = "genapp"
+string fullbuildruntimeversion = "19.2.0.2578"
 end type
 global genapp genapp
 
